@@ -1,10 +1,12 @@
-
+@@ -7,30 +7,14 @@
 <h1 align="left">Hey 👋 What's up?</h1>
- 👋 Hi, I’m @AnanditaPanigrahi
+  
+- 👋 Hi, I’m @AnanditaPanigrahi
 - 👀 I’m interested in Web Development.
 - 🏢 I’m looking to collaborate on Full-Stack/Backend Development Projects.
+<!--- - 🌱 I’m currently learning Flutter, Flask. --->
 - 👀 Have experience in Web Application Development.
-- 🏢 Can collaborate on Java Full stack projects
+- 🏢 Can collaborate on on Java Full stack projects
 Skills: **MERN Stack** | **JavaScript** | **System Design** | **Java** 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananditapanigrahi&label=Profile%20views&color=0e75b6&style=flat" alt="ananditapanigrahi" /> </p>
 
