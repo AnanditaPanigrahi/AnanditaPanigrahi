@@ -1,4 +1,4 @@
-@@ -7,30 +7,14 @@
+
 <h1 align="left">Hey 👋 What's up?</h1>
   
 - 👋 Hi, I’m @AnanditaPanigrahi
