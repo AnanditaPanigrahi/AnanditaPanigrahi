@@ -1,9 +1,8 @@
 
 <h1 align="left">Hey 👋 What's up?</h1>
  👋 Hi, I’m @AnanditaPanigrahi
- -👀 I’m interested in Web Development.
- -🏢 I’m looking to collaborate on Full-Stack/Backend Development Projects.
-
+- 👀 I’m interested in Web Development.
+- 🏢 I’m looking to collaborate on Full-Stack/Backend Development Projects.
 - 👀 Have experience in Web Application Development.
 - 🏢 Can collaborate on Java Full stack projects
 Skills: **MERN Stack** | **JavaScript** | **System Design** | **Java** 
