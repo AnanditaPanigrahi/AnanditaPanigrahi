@@ -8,7 +8,7 @@
 - 🏢 Can collaborate on Java Full stack projects
 Skills: **MERN Stack** | **JavaScript** | **System Design** | **Java** |
 
-<h3 align="center"> 📊 Stats: </h3>
+<h1 align="center"> 📊 Stats: </h1>
 Skills: **Full Stack Development** | **JAVA** | **System Design**
 
 
