@@ -1,21 +1,32 @@
-<!-- markdownlint-disable MD033 MD041 -->
-<p align="center">
-  <h3 align="center">⌨️ Readme Typing SVG</h3>
-</p>
+<h1 align="left">Hey 👋 What's up?</h1>
+ 👋 Hi, I’m @AnanditaPanigrahi
+- 👀 I’m interested in Web Development.
+- 🏢 I’m looking to collaborate on Full-Stack/Backend Development Projects.
+
+- 👀 Have experience in Web Application Development.
+- 🏢 Can collaborate on Java Full stack projects
+
+Skills: **MERN Stack** | **JavaScript** | **System Design** | **Java** |
+
+<h1 align="center"> 📊 Stats: </h1>
+Skills: **Full Stack Development** | **JAVA** | **System Design**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=sarbajitmohanty&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" >
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarbajitmohanty&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444&hide=c,cmake,html,swift,kotlin,css,objective-c,scss" >
+  </a>
+  <br>
 </p>
-
+<!---
+<h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
-  <a href="https://github.com/search?q=extension%3Amd+%22https+readme+typing+svg%22&type=Code" alt="Users" title="Repo users">
-    <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+  
+  <br>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=sarbajitmohanty&theme=react-dark&hide_border=true">
+  </a>
 </p>
-<!-- markdownlint-enable MD033 -->
-
-
-
-
-
+--->
