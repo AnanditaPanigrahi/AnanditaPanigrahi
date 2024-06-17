@@ -1,3 +1,10 @@
+
+
+Skills: **MERN Stack** | **JavaScript** | **System Design** | **Java** |
+
+<h1 align="center"> 📊 Stats: </h1>
+Skills: **Full Stack Development** | **JAVA** | **System Design**
+
 <h1 align="left">Hey 👋 What's up?</h1>
  👋 Hi, I’m @AnanditaPanigrahi
 - 👀 I’m interested in Web Development.
@@ -5,33 +12,11 @@
 
 - 👀 Have experience in Web Application Development.
 - 🏢 Can collaborate on Java Full stack projects
-
 Skills: **MERN Stack** | **JavaScript** | **System Design** | **Java** |
 
 <h1 align="center"> 📊 Stats: </h1>
 Skills: **Full Stack Development** | **JAVA** | **System Design**
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="" >
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="" >
-  </a>
-  <br>
-</p>
-<!---
-<h1 align="center"> 🔥 Contributions: </h1>
-<p align="center">
-  
-  <br>
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="">
-  </a>
-</p>
---->
-<h1 align="center">Hi 👋, I'm Anandita Panigrahi</h1>
-<h3 align="center">A passionate Java Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananditapanigrahi&label=Profile%20views&color=0e75b6&style=flat" alt="ananditapanigrahi" /> </p>
 
