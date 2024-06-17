@@ -20,7 +20,7 @@ Skills: **MERN Stack** | **JavaScript** | **System Design** | **Java**
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananditapanigrahi&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananditapanigrahi&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444&hide=html,css" >
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=ananditapanigrahi&show_icons=true&locale=en" >
