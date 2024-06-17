@@ -13,10 +13,10 @@ Skills: **Full Stack Development** | **JAVA** | **System Design**
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=sarbajitmohanty&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" >
+    <img src="" >
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarbajitmohanty&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444&hide=c,cmake,html,swift,kotlin,css,objective-c,scss" >
+    <img src="" >
   </a>
   <br>
 </p>
@@ -26,7 +26,7 @@ Skills: **Full Stack Development** | **JAVA** | **System Design**
   
   <br>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=sarbajitmohanty&theme=react-dark&hide_border=true">
+    <img src="">
   </a>
 </p>
 --->
